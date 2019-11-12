@@ -1,4 +1,6 @@
-def create_an_empty_array
+def yolo ()
+  work = Array.new
+  return work
   
 end
 
